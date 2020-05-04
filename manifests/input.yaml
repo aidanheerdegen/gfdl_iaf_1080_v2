@@ -26,20 +26,45 @@ work/INPUT/grid_spec.nc:
   hashes:
     binhash: 095c30b17b2f2e83d410cfc80e9e678f
     md5: 57663e6575e424cce2cf98bc9778786a
+work/INPUT/iaf.tar:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/iaf.tar
+  hashes:
+    binhash: 11b8a06718d0a177c5eae1197287bcca
+    md5: ea93ff5fc0853741b176974e38f50b49
 work/INPUT/land_mask.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/land_mask.nc
   hashes:
     binhash: 2602871e077e23c2df0e80b8bf31e7a0
     md5: d066953d31e4b4fcb1ce34ecf3497296
-work/INPUT/ncar_precip.nc:
-  fullpath: /g/data/v45/mom/core2iaf/ncar_precip.nc
+work/INPUT/ncar_precip.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_precip.1948-2007.06JUN2011.nc
   hashes:
-    binhash: e34f2afa42e516d261e0cada0a32eca1
+    binhash: f9ce9bebc4f583635fc6fb2e4063a1ad
     md5: d441e0068388196ef8199d827877d7d8
-work/INPUT/ncar_rad.nc:
-  fullpath: /g/data/v45/mom/core2iaf/ncar_rad.nc
+work/INPUT/ncar_precip.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_precip.1979to2007.nc
   hashes:
-    binhash: 4dda7a6d9e88f8f785ad5f4bec23e703
+    binhash: a5505c3dccb991cb85c7c5578cb011ac
+    md5: 3668cc049242c2ac09f43d6ffe820558
+work/INPUT/ncar_precip_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_precip_iaf.nc
+  hashes:
+    binhash: 3fcd010988cc36ef19d4b48669d5b827
+    md5: d441e0068388196ef8199d827877d7d8
+work/INPUT/ncar_rad.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_rad.1948-2007.06JUN2011.nc
+  hashes:
+    binhash: 0f29a24e0a9ea0829a0ece5c6dc97a0e
+    md5: abb400e7660db8fc8b7192961de9c76a
+work/INPUT/ncar_rad.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_rad.1979to2007.nc
+  hashes:
+    binhash: 747a5167e9518a19a4cf4f5a4c09a01f
+    md5: b4eda255bbbf66811e31c3b69da402c4
+work/INPUT/ncar_rad_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/ncar_rad_iaf.nc
+  hashes:
+    binhash: 987b05a2703f13280bbaeb3b01ec18de
     md5: abb400e7660db8fc8b7192961de9c76a
 work/INPUT/ncar_rescale.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ncar_rescale.nc
@@ -71,10 +96,20 @@ work/INPUT/ocean_vgrid.nc:
   hashes:
     binhash: b69019d8f4a3070fbcc4c91235b8c02f
     md5: 4e4048b451c6e5051062aa16e3501dcc
-work/INPUT/q_10.nc:
-  fullpath: /g/data/v45/mom/core2iaf/q_10.nc
+work/INPUT/q_10.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/q_10.1948-2007.06JUN2011.nc
   hashes:
-    binhash: 9bfe7d4cf36dd439d7cd2eb2aca06fea
+    binhash: 52fb1e1931a02a33fe3023eb74cfbb8e
+    md5: 94b2c77bc7337434885d2302f05aa546
+work/INPUT/q_10.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/q_10.1979to2007.nc
+  hashes:
+    binhash: a51bfde94c6f1b1687628dbb5e60a209
+    md5: 1767c7b42de7c6991c8ee10da85a4261
+work/INPUT/q_10_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/q_10_iaf.nc
+  hashes:
+    binhash: ad61718eec56ccb1dd9793676cd1e6f1
     md5: 94b2c77bc7337434885d2302f05aa546
 work/INPUT/river_destination_field:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/river_destination_field
@@ -96,30 +131,60 @@ work/INPUT/roughness_length.nc:
   hashes:
     binhash: d0e3055f33619f7715dbb51bb7983acc
     md5: efa8999e9e4686cad695ff5cf0d523d5
-work/INPUT/runoff.nc:
-  fullpath: /g/data/v45/mom/core2iaf/runoff.nc
+work/INPUT/runoff.p25.regrid.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/runoff.p25.regrid.1979to2007.nc
   hashes:
-    binhash: d1f12202e0669824f096d04aa60f4d77
+    binhash: df139a79e5a3f09c86ace13c32516112
+    md5: 164b7b4529d6f1c884d93ee8371eb9b0
+work/INPUT/runoff.p25.regrid.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/runoff.p25.regrid.nc
+  hashes:
+    binhash: 65805d93c55054ca7e7ee7abe3eaf445
+    md5: a247b8ff42fb7c1f879176477d8c13a5
+work/INPUT/runoff_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/runoff_iaf.nc
+  hashes:
+    binhash: de424ea64d2f90ba8035124b90b202f8
     md5: a247b8ff42fb7c1f879176477d8c13a5
 work/INPUT/salt_sfc_restore.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/salt_sfc_restore.nc
   hashes:
     binhash: 9f47fbb4e620eb388f9bf3792ece4f9a
     md5: 03b22565aee5aabc37e8b599d2ae6f08
-work/INPUT/slp.nc:
-  fullpath: /g/data/v45/mom/core2iaf/slp.nc
+work/INPUT/slp.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/slp.1948-2007.06JUN2011.nc
   hashes:
-    binhash: 6847045b74d8e42e7ce1f17cecffd947
+    binhash: b93c37e5b9d612a3a424c90c8eee986b
+    md5: 64f8fdd49a467e5dacab37f18ce1d525
+work/INPUT/slp.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/slp.1979to2007.nc
+  hashes:
+    binhash: 6b83094f27a08033a95f88f547da9154
+    md5: aeb1e91063873f96e7538029a1a82e99
+work/INPUT/slp_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/slp_iaf.nc
+  hashes:
+    binhash: 4fd3014c98b5bc1c2183993f6e4c43da
     md5: 64f8fdd49a467e5dacab37f18ce1d525
 work/INPUT/sst_ice_clim.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/sst_ice_clim.nc
   hashes:
     binhash: bcf80d35ff942c65db22085cac670fe1
     md5: eea35547f8b836c678f75f75f8445a09
-work/INPUT/t_10.nc:
-  fullpath: /g/data/v45/mom/core2iaf/t_10.nc
+work/INPUT/t_10.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/t_10.1948-2007.06JUN2011.nc
   hashes:
-    binhash: adafd7756c2e5fd8b1163acbb307bd1d
+    binhash: 33e0d790292c630e7ff2eb7561e6e87d
+    md5: e1bc6c96e83b175a353d8452443196d1
+work/INPUT/t_10.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/t_10.1979to2007.nc
+  hashes:
+    binhash: bf55834d249d2fbcdc2e18df9cd76908
+    md5: d172db63ddcfcf4a5c11a8e558fd6661
+work/INPUT/t_10_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/t_10_iaf.nc
+  hashes:
+    binhash: d619c76ec7cff76fde72f872253e7efa
     md5: e1bc6c96e83b175a353d8452443196d1
 work/INPUT/tideamp.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/tideamp.nc
@@ -131,13 +196,33 @@ work/INPUT/topog.nc:
   hashes:
     binhash: e0426ff8c9ffba5eacdbe45478ce8748
     md5: 6ee231132c8a29bdac72bfce3a11f790
-work/INPUT/u_10.nc:
-  fullpath: /g/data/v45/mom/core2iaf/u_10.nc
+work/INPUT/u_10.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/u_10.1948-2007.06JUN2011.nc
   hashes:
-    binhash: 9d788eefcc90a780c68db655d88c0e73
+    binhash: be7b04ce9d1e9b81881e41f4e1d4003d
     md5: 2dcfd46c85839cbc5c8cc5322b5be81e
-work/INPUT/v_10.nc:
-  fullpath: /g/data/v45/mom/core2iaf/v_10.nc
+work/INPUT/u_10.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/u_10.1979to2007.nc
   hashes:
-    binhash: e87228d915d8bde5b4d88ff42c1c8c09
+    binhash: 7d2842ea5e93e25e33291a8a20f43ace
+    md5: 3eecaf2f01c0e11e83b5088c1e2353b0
+work/INPUT/u_10_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/u_10_iaf.nc
+  hashes:
+    binhash: ae097daec9dfa66fd7a4f8d99e623532
+    md5: 2dcfd46c85839cbc5c8cc5322b5be81e
+work/INPUT/v_10.1948-2007.06JUN2011.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/v_10.1948-2007.06JUN2011.nc
+  hashes:
+    binhash: c9523abb3fafbf73763bc47d6b42588f
+    md5: b46698c0d1b8ad62e7ad2df115cde847
+work/INPUT/v_10.1979to2007.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/v_10.1979to2007.nc
+  hashes:
+    binhash: 5d9a73b35165a0dfa64d8209f538dc7a
+    md5: 439e6fbdd081f29e94caee10c1da7867
+work/INPUT/v_10_iaf.nc:
+  fullpath: /g/data/v45/pas561/mom/input/core2iaf/v_10_iaf.nc
+  hashes:
+    binhash: fea6e7f9fb9bf457a0429ea66620951a
     md5: b46698c0d1b8ad62e7ad2df115cde847

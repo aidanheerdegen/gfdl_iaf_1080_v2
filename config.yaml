@@ -20,7 +20,7 @@ model: mom
 shortpath: /scratch/e14
 exe: fms_MOM_SIS.x
 input:
-    - /g/data/v45/mom/core2iaf
+    - /g/data/v45/pas561/mom/input/core2iaf
     - /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE
 
 # Misc
