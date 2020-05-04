@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/fms_MOM_SIS.x:
+  fullpath: /scratch/e14/aph502/mom/bin/fms_MOM_SIS.x
+  hashes:
+    binhash: 127c191ac9f74dc398d7a7d54ff07cc2
+    md5: 54fa8e1f8b24f6a29f424f5ed2a7b592

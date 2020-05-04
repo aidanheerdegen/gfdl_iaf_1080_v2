@@ -1,0 +1,143 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/atm_ocean_mosaic_tile1Xlnd_ocean_mosaic_tile1.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/atm_ocean_mosaic_tile1Xlnd_ocean_mosaic_tile1.nc
+  hashes:
+    binhash: 0496dfa801a4d1ef1f3e70ef8ea472b9
+    md5: 01da53ffbb637a20bcaec513559ac103
+work/INPUT/atm_ocean_mosaic_tile1Xocn_ocean_mosaic_tile1.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/atm_ocean_mosaic_tile1Xocn_ocean_mosaic_tile1.nc
+  hashes:
+    binhash: d0aed1d5e71a6b39d90a988ec2882678
+    md5: 415189e2883d6d9c9adc1ec472052bc9
+work/INPUT/calving.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/calving.nc
+  hashes:
+    binhash: 5ce719c56107ed9626e6819b272157e0
+    md5: a0c40cdeff900a1c1b114f415bd5c1f5
+work/INPUT/chl.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/chl.nc
+  hashes:
+    binhash: 6e32ef3e43739ecf66b85761624a657f
+    md5: 99b68aec777292d746e4d93c2b976189
+work/INPUT/grid_spec.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/grid_spec.nc
+  hashes:
+    binhash: 095c30b17b2f2e83d410cfc80e9e678f
+    md5: 57663e6575e424cce2cf98bc9778786a
+work/INPUT/land_mask.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/land_mask.nc
+  hashes:
+    binhash: 2602871e077e23c2df0e80b8bf31e7a0
+    md5: d066953d31e4b4fcb1ce34ecf3497296
+work/INPUT/ncar_precip.nc:
+  fullpath: /g/data/v45/mom/core2iaf/ncar_precip.nc
+  hashes:
+    binhash: e34f2afa42e516d261e0cada0a32eca1
+    md5: d441e0068388196ef8199d827877d7d8
+work/INPUT/ncar_rad.nc:
+  fullpath: /g/data/v45/mom/core2iaf/ncar_rad.nc
+  hashes:
+    binhash: 4dda7a6d9e88f8f785ad5f4bec23e703
+    md5: abb400e7660db8fc8b7192961de9c76a
+work/INPUT/ncar_rescale.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ncar_rescale.nc
+  hashes:
+    binhash: a3287629a0a6cbd499e07f1ec107b253
+    md5: df2b7ac7f865e4f6adbce9053d2a22f9
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_hgrid.nc
+  hashes:
+    binhash: 14849ae4c61d6cc10a0ba6aef3ef022d
+    md5: 38b6f324ae16cc13c180699123ad85b5
+work/INPUT/ocean_mask.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_mask.nc
+  hashes:
+    binhash: 075aca9a5542a87fa627bc21e2941679
+    md5: bdc676dc8db9eae2383a002a468b04e6
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_mosaic.nc
+  hashes:
+    binhash: f33d9cd46e1aa8f6b5401c2ac0392359
+    md5: 36e956159508785d9201cc13aec0cf02
+work/INPUT/ocean_temp_salt.res.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_temp_salt.res.nc
+  hashes:
+    binhash: ab6956c431808d9f25b4386245dedc48
+    md5: 8cc43038a598572a319cc9e0a651425a
+work/INPUT/ocean_vgrid.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_vgrid.nc
+  hashes:
+    binhash: b69019d8f4a3070fbcc4c91235b8c02f
+    md5: 4e4048b451c6e5051062aa16e3501dcc
+work/INPUT/q_10.nc:
+  fullpath: /g/data/v45/mom/core2iaf/q_10.nc
+  hashes:
+    binhash: 9bfe7d4cf36dd439d7cd2eb2aca06fea
+    md5: 94b2c77bc7337434885d2302f05aa546
+work/INPUT/river_destination_field:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/river_destination_field
+  hashes:
+    binhash: e4fc776ab23d317bcf0214f83caa1b54
+    md5: c4002e08f691b3a8e0a60242600db343
+work/INPUT/roughness_amp.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/roughness_amp.nc
+  hashes:
+    binhash: 116d47f7fc19899972105ed8e1b62f8c
+    md5: 6b18885d65950d7ee2afe803432fbf5c
+work/INPUT/roughness_cdbot.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/roughness_cdbot.nc
+  hashes:
+    binhash: 1aaecf8872b6ef147e0746296406c5a8
+    md5: efa8999e9e4686cad695ff5cf0d523d5
+work/INPUT/roughness_length.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/roughness_length.nc
+  hashes:
+    binhash: d0e3055f33619f7715dbb51bb7983acc
+    md5: efa8999e9e4686cad695ff5cf0d523d5
+work/INPUT/runoff.nc:
+  fullpath: /g/data/v45/mom/core2iaf/runoff.nc
+  hashes:
+    binhash: d1f12202e0669824f096d04aa60f4d77
+    md5: a247b8ff42fb7c1f879176477d8c13a5
+work/INPUT/salt_sfc_restore.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/salt_sfc_restore.nc
+  hashes:
+    binhash: 9f47fbb4e620eb388f9bf3792ece4f9a
+    md5: 03b22565aee5aabc37e8b599d2ae6f08
+work/INPUT/slp.nc:
+  fullpath: /g/data/v45/mom/core2iaf/slp.nc
+  hashes:
+    binhash: 6847045b74d8e42e7ce1f17cecffd947
+    md5: 64f8fdd49a467e5dacab37f18ce1d525
+work/INPUT/sst_ice_clim.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/sst_ice_clim.nc
+  hashes:
+    binhash: bcf80d35ff942c65db22085cac670fe1
+    md5: eea35547f8b836c678f75f75f8445a09
+work/INPUT/t_10.nc:
+  fullpath: /g/data/v45/mom/core2iaf/t_10.nc
+  hashes:
+    binhash: adafd7756c2e5fd8b1163acbb307bd1d
+    md5: e1bc6c96e83b175a353d8452443196d1
+work/INPUT/tideamp.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/tideamp.nc
+  hashes:
+    binhash: 9e0c2373bcbd31d9d1c850cabd5b212d
+    md5: 49b1f91341f19cd4ef80a6be2cb2d250
+work/INPUT/topog.nc:
+  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/topog.nc
+  hashes:
+    binhash: e0426ff8c9ffba5eacdbe45478ce8748
+    md5: 6ee231132c8a29bdac72bfce3a11f790
+work/INPUT/u_10.nc:
+  fullpath: /g/data/v45/mom/core2iaf/u_10.nc
+  hashes:
+    binhash: 9d788eefcc90a780c68db655d88c0e73
+    md5: 2dcfd46c85839cbc5c8cc5322b5be81e
+work/INPUT/v_10.nc:
+  fullpath: /g/data/v45/mom/core2iaf/v_10.nc
+  hashes:
+    binhash: e87228d915d8bde5b4d88ff42c1c8c09
+    md5: b46698c0d1b8ad62e7ad2df115cde847

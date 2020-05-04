@@ -1,0 +1,27 @@
+# PBS flags
+queue: normal
+project: e14
+walltime: 5:00:00
+ncpus: 1920
+mem: 3840GB
+jobname: IAFv2
+
+#collate_walltime: 10:00:00
+#collate_mem: 16GB
+collate:
+   walltime: 4:00:00
+   mem: 128GB
+   ncpus: 16
+   queue: express
+   flags: -n4 -z -m -r
+
+# Model config
+model: mom
+shortpath: /scratch/e14
+exe: fms_MOM_SIS.x
+input:
+    - /g/data/v45/mom/core2iaf
+    - /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE
+
+# Misc
+stacksize: unlimited
