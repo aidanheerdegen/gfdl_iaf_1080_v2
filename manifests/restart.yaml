@@ -1,3 +1,73 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/INPUT/coupler.res:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/coupler.res
+  hashes:
+    binhash: 604c095a7c3293f16846b0e0e9f26095
+    md5: 64181f39e8a7a57c2d20991214f85703
+work/INPUT/ice_model.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ice_model.res.nc
+  hashes:
+    binhash: 678e3b809bea755cec079e3ebbb02dcf
+    md5: 2201af0fff86e98cea7e9450ab74b1a4
+work/INPUT/ocean_age.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_age.res.nc
+  hashes:
+    binhash: 57eae6a0b57f30e43293877ee5c670cf
+    md5: 68ab81428800d47e5a3867816c5021f7
+work/INPUT/ocean_barotropic.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_barotropic.res.nc
+  hashes:
+    binhash: c6e8a0e69db62ad2ecb9f5a6643fa0e3
+    md5: 5a0887f0de2a00c8676a72ad524f52c3
+work/INPUT/ocean_bih_friction.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_bih_friction.res.nc
+  hashes:
+    binhash: ad0a2435c30fd9781c24cfd484dddb42
+    md5: 81b97aa293b4a840429cd9faebb11799
+work/INPUT/ocean_con_temp.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_con_temp.res.nc
+  hashes:
+    binhash: daa328a0e9969188e0130030ff235b8a
+    md5: c7f4be7ad73efed1b1a1e46d3d526e8b
+work/INPUT/ocean_density.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_density.res.nc
+  hashes:
+    binhash: 1a1035b4cb74e281015b912c38cea508
+    md5: 2e847e123b48688b2b5577773aa0350a
+work/INPUT/ocean_frazil.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_frazil.res.nc
+  hashes:
+    binhash: a58523c35ba367eb498e6138ea23d761
+    md5: 3790ef217f1338c7f81d3f26f2eb1927
+work/INPUT/ocean_sbc.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_sbc.res.nc
+  hashes:
+    binhash: 30e07f9fb4932a5f03c1d321ca37411e
+    md5: cd5be8026e792548b1f6dd782c3ac171
+work/INPUT/ocean_temp_salt.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_temp_salt.res.nc
+  hashes:
+    binhash: eb5377f303e34f7f3469d051ae3ed13a
+    md5: 341d4e073d5c0464d02d188cba18e41a
+work/INPUT/ocean_thickness.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_thickness.res.nc
+  hashes:
+    binhash: 70597292e02b8fec04fde8bd55da7e4d
+    md5: c05cd96063d968094246da3780b8864a
+work/INPUT/ocean_tracer.res:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_tracer.res
+  hashes:
+    binhash: 83ae592de4bb47eb6b1a9ddce8b6c02b
+    md5: e3222610c538fb5bac12ceb286cd4a84
+work/INPUT/ocean_velocity.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_velocity.res.nc
+  hashes:
+    binhash: 365853db79eea63fc22b3378d75a2639
+    md5: d010878a6ae97e462e66354982c6369f
+work/INPUT/ocean_velocity_advection.res.nc:
+  fullpath: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080/ocean_velocity_advection.res.nc
+  hashes:
+    binhash: 543a146e569aa2aedc4bb4018dd1a7d8
+    md5: 55779eb3c78680a7335e5ad7ce84b318

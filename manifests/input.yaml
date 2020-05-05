@@ -86,11 +86,6 @@ work/INPUT/ocean_mosaic.nc:
   hashes:
     binhash: f33d9cd46e1aa8f6b5401c2ac0392359
     md5: 36e956159508785d9201cc13aec0cf02
-work/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_temp_salt.res.nc
-  hashes:
-    binhash: ab6956c431808d9f25b4386245dedc48
-    md5: 8cc43038a598572a319cc9e0a651425a
 work/INPUT/ocean_vgrid.nc:
   fullpath: /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE/ocean_vgrid.nc
   hashes:

@@ -9,8 +9,8 @@ jobname: IAFv2
 #collate_walltime: 10:00:00
 #collate_mem: 16GB
 collate:
-   walltime: 4:00:00
-   mem: 128GB
+   walltime: 1:00:00
+   mem: 64GB
    ncpus: 16
    queue: express
    flags: -n4 -z -m -r
@@ -18,10 +18,12 @@ collate:
 # Model config
 model: mom
 shortpath: /scratch/e14
-exe: fms_MOM_SIS.x
+exe: /scratch/e14/aph502/mom/bin/fms_MOM_SIS.x
 input:
     - /g/data/v45/pas561/mom/input/core2iaf
     - /g/data/v45/pas561/mom/input/gfdl_nyf_1080_noCORE
+
+restart: /g/data/hh5/tmp/pas561/gfdl_iaf_1080_v2/restart080
 
 # Misc
 stacksize: unlimited
