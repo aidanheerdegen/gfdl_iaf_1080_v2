@@ -14,6 +14,7 @@ collate:
    ncpus: 16
    queue: express
    flags: -n4 -z -m -r
+   exe: /scratch/e14/aph502/mom/bin/mppnccombine
 
 # Model config
 model: mom
